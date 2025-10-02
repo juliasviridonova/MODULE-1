@@ -35,12 +35,14 @@ body {font-family: "Manrope", sans-serif;
 h1 {
     font-size: 60px;
     font-weight: 400;
+    width: 956px;
     line-height: 60px;
     text-align: left;
     letter-spacing: -0.03em;
 }
 
 h2 {
+    margin-top: 150px;
     font-size: 18px;
     font-weight: 400;
     line-height: 25px;
@@ -69,4 +71,5 @@ p.description {
     background-color: #AD1818;
     color: #FFFFFF;
     cursor: pointer;
+
 }
