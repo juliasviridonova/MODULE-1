@@ -127,6 +127,8 @@ h3 {
     font-weight: 400;
     font-size: 30px;
     text-decoration: none;
+    line-height: 41px;
+    letter-spacing: -0.03em;
     color: #AD1818;
     border: 1px solid #AD1818;
 }
@@ -136,4 +138,5 @@ h3 {
     color: #FFFFFF;
 
 }
+
 
