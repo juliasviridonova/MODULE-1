@@ -152,21 +152,44 @@ h3 {
 }
 
 .uslugi {
+    
     padding-left: 127px;
 }
 
 h4 {
-    margin: 0;
+    margin: 0 auto;
+    margin-bottom: 34px;
     padding-top: 151px;
     font-weight: 400;
     font-size: 18px;
     line-height: 25px;
     letter-spacing: -0.03em;
     color: #FFFFFF;
+}
+
+.vse_uslugi {
+    width: 1150px;
+    height: 270px;
 
 }
 
+.text-uslug:nth-last-child(1) {
+    margin-bottom: 150px;
+}
 
+.image-uslug {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 15px;
+}
 
-
-
+.text-uslug {
+    margin: 0 auto;
+    margin-bottom: 60px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 41px;
+    letter-spacing: -0.03em;
+}
