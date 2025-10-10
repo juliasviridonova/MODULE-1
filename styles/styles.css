@@ -18,6 +18,7 @@ body {
 }
 
 .interior {
+    position: relative;
     margin-top: 30px;
     height: 500px; 
     width: 1150px; 
@@ -26,9 +27,9 @@ body {
 }
 
 .image-text {
-    padding-top: 379px;
-    padding-left: 40px;
-    padding-bottom: 40px;
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
     width: 430px;
     font-weight: 400;
     font-size: 20px;
