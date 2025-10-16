@@ -236,3 +236,22 @@ h4 {
     font-size: 30px;
     line-height: 41px;
 }
+
+.container_project {
+    margin: 0 auto;
+    box-sizing: border-box;
+    position: relative;
+    Width: 1400px;
+    Height: 717px;
+    background-image: url('/resources/bed.png');
+}
+
+.project_text {
+    margin: 0 auto;
+    position: absolute;
+    bottom: 60px;
+    left: 125px;
+    width: 443px;
+    font-size: 30px;
+    color: #FFFFFF;
+}
