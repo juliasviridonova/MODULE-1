@@ -257,7 +257,7 @@ h4 {
     color: #FFFFFF;
 }
 
-.contacts { 
+.contacts-block { 
     margin: 0 auto;
     width: 1400px;
     height: 553px;
@@ -292,6 +292,7 @@ h5::before {
     margin-bottom: 30px;
     font-weight: 400;
     font-size: 60px;
+    line-height: 60px;
 }
 
 .email {    
@@ -302,6 +303,7 @@ h5::before {
     font-weight: 400;
     font-size: 60px;
     opacity: 50%;
+    line-height: 60px;
     letter-spacing: -0.03em;
 }
 
