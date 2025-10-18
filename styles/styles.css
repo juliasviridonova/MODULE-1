@@ -232,6 +232,7 @@ h4 {
 
 .text-uslug {
     margin-bottom: 60px;
+    margin-top: 0;
     font-weight: 400;
     font-size: 30px;
     line-height: 41px;
@@ -255,3 +256,64 @@ h4 {
     font-size: 30px;
     color: #FFFFFF;
 }
+
+.contacts { 
+    margin: 0 auto;
+    width: 1400px;
+    height: 553px;
+    letter-spacing: -0.03em;
+    color: #121212;
+}
+
+h5 {
+    margin-top: 0;
+    margin-left: 124px;
+    margin-bottom: 32px;
+    padding-top: 150px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+h5::before {
+    content: '';
+    display: block;
+    margin-top: 0;
+    margin-bottom: 12px;
+    width: 24px;
+    height: 24px;
+    background-image: url('/resources/telephone.png');
+    background-size: contain;
+}
+
+.number {
+    margin-left: 125px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 60px;
+}
+
+.email {    
+    
+    margin-left: 125px;
+    margin-top: 0;
+    margin-bottom: 150px;
+    font-weight: 400;
+    font-size: 60px;
+    opacity: 50%;
+    letter-spacing: -0.03em;
+}
+
+.email::after {
+    content: '';
+    display: block;
+    margin-left: 4px;
+    width: 406px;
+    height: 2px;
+    background-image: url('/resources/Line\ 2.png');
+    background-size: contain;
+    
+}
+
+   
