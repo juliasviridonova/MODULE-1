@@ -282,7 +282,7 @@ h5::before {
     margin-bottom: 12px;
     width: 24px;
     height: 24px;
-    background-image: url('/resources/telephone.png');
+    background-image: url(/resources/telephone.png);
     background-size: contain;
 }
 
@@ -322,5 +322,6 @@ h5::before {
   background-image: url('/resources/Line 2.png');
   background-size: contain;
 }
+
 
    
