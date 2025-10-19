@@ -244,7 +244,7 @@ h4 {
     position: relative;
     Width: 1400px;
     Height: 717px;
-    background-image: url('/resources/bed.png');
+    background-image: url('../resources/bed.png');
 }
 
 .project_text {
