@@ -287,35 +287,40 @@ h5::before {
 }
 
 .number {
-    margin-left: 125px;
-    margin-top: 0;
-    margin-bottom: 30px;
-    font-weight: 400;
-    font-size: 60px;
-    line-height: 60px;
+  display: inline-block;
+  margin-left: 125px;
+  margin-top: 0;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 60px;
+  color: #121212;
+  text-decoration: none;
+  letter-spacing: -0.03em;
 }
 
-.email {    
-    
-    margin-left: 125px;
-    margin-top: 0;
-    margin-bottom: 150px;
-    font-weight: 400;
-    font-size: 60px;
-    opacity: 50%;
-    line-height: 60px;
-    letter-spacing: -0.03em;
+.email {
+  display: inline-block;
+  margin-left: 125px;
+  margin-top: 30px;
+  margin-bottom: 150px;
+  font-weight: 400;
+  font-size: 60px;
+  opacity: 50%; 
+  line-height: 60px;
+  letter-spacing: -0.03em;
+  color: #121212;
+  text-decoration: none;
 }
 
 .email::after {
-    content: '';
-    display: block;
-    margin-left: 4px;
-    width: 406px;
-    height: 2px;
-    background-image: url('/resources/Line\ 2.png');
-    background-size: contain;
-    
+  content: '';
+  display: block;
+  margin-left: 3px;
+  margin-top: 10px;
+  width: 406px;
+  height: 2px;
+  background-image: url('/resources/Line 2.png');
+  background-size: contain;
 }
 
    
