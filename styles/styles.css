@@ -232,7 +232,6 @@ h4 {
 
 .text-uslug {
     margin-bottom: 60px;
-    margin-top: 0;
     font-weight: 400;
     font-size: 30px;
     line-height: 41px;
@@ -266,7 +265,6 @@ h4 {
 }
 
 h5 {
-    margin-top: 0;
     margin-left: 124px;
     margin-bottom: 32px;
     padding-top: 150px;
@@ -278,7 +276,6 @@ h5 {
 h5::before {
     content: '';
     display: block;
-    margin-top: 0;
     margin-bottom: 12px;
     width: 24px;
     height: 24px;
@@ -289,7 +286,6 @@ h5::before {
 .number {
   display: inline-block;
   margin-left: 125px;
-  margin-top: 0;
   font-weight: 400;
   font-size: 60px;
   line-height: 60px;
