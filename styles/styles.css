@@ -161,7 +161,9 @@ h3 {
     margin-bottom: 15px;
     display: block;
     width: 100%;
-    height: 100%;
+    height: 450px;
+    background-size: contain;
+    
 }
 
 .GK {
@@ -264,6 +266,7 @@ h4 {
     position: absolute;
     bottom: 60px;
     left: 125px;
+    height: 82px;
     width: 443px;
     font-size: 30px;
     color: #FFFFFF;
@@ -377,6 +380,7 @@ h5::before {
 }
 
 .name {
+    font-size: 20px;
     text-align: center;
     opacity: 50%;
     color: #FFFFFF;
