@@ -38,10 +38,10 @@ body {
 }
 
 .nav {
-    
+    display: flex;
     font-size: 18px;
     line-height: 25px;
-    white-space: nowrap;
+    
 }
 
 .nav_link {
@@ -52,9 +52,12 @@ body {
     
 }
 
-.nav_link:first-child {
+.nav_link_about {
+    margin-right: 60px;
     opacity: 50%;
-    text-decoration: underline;
+    margin-bottom: 2px;
+    color: #121212;
+    text-decoration: none;
 }
 
 
@@ -62,6 +65,14 @@ body {
     margin-right: 0;
 }
 
+.nav_link_about::after {
+    content: '';
+    display: block;
+    margin-top: 2px;
+    background-image: url('../resources/Line\ 1.png');
+    height: 1px;
+    color: #121212;
+}
 
 
 .interior {
