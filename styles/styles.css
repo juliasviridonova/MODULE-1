@@ -340,20 +340,31 @@ h5::before {
     width: 450px;
     font-size: 18px;
     line-height: 25px;
-    color: #FFFFFF;
+    
+    
 }
 
 .aboutus {
     margin-right: 53px;
     opacity: 50%;
+    color: #FFFFFF;
+    text-decoration: none;
 }
 
 .projects {
     margin-right: 56px;
+    color: #FFFFFF;
+    text-decoration: none;
 }
 
 .services {
     margin-right: 55px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.contacts {   
+    color: #FFFFFF;
+    text-decoration: none;
 }
 
 .name {
