@@ -49,6 +49,7 @@ body {
     font-weight: 400;
     color: #121212;
     text-decoration: none;
+    letter-spacing: -0.03em;
     
 }
 
@@ -58,6 +59,7 @@ body {
     margin-bottom: 2px;
     color: #121212;
     text-decoration: none;
+    letter-spacing: -0.03em;
 }
 
 
