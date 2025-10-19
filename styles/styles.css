@@ -244,7 +244,7 @@ h4 {
     position: relative;
     Width: 1400px;
     Height: 717px;
-    background-image: url('../resources/bed.png');
+    background-image: url('/resources/bed.png');
 }
 
 .project_text {
@@ -282,7 +282,7 @@ h5::before {
     margin-bottom: 12px;
     width: 24px;
     height: 24px;
-    background-image: url('../resources/telephone.png);
+    background-image: url('../resources/telephone.png');
     background-size: contain;
 }
 
@@ -323,6 +323,4 @@ h5::before {
   background-size: contain;
 }
 
-
    
-
