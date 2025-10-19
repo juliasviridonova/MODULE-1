@@ -323,4 +323,41 @@ h5::before {
   background-size: contain;
 }
 
+.last-block-black {
+    margin: 0 auto;
+    width: 1400px;
+    height: 229px;
+    letter-spacing: -0.03em;
+    background-color: #121212;
+}
    
+.list {
+    display: flex;
+    box-sizing: border-box;
+    padding-top: 60px;
+    margin: 0 auto;
+    margin-bottom: 87px;
+    width: 450px;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.aboutus {
+    margin-right: 53px;
+    opacity: 50%;
+}
+
+.projects {
+    margin-right: 56px;
+}
+
+.services {
+    margin-right: 55px;
+}
+
+.name {
+    text-align: center;
+    opacity: 50%;
+    color: #FFFFFF;
+}
