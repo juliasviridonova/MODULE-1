@@ -93,6 +93,8 @@ margin-bottom: 150px;
 height: 500px;
 background-repeat: no-repeat;
 background-image: url('../resources/interior.png');
+background-size: cover;
+background-position: 50%;
 }
 
 .image-text {
@@ -413,8 +415,7 @@ h5::before {
     .interior {
         margin-bottom: 120px;
         width: 100%;
-        background-size: cover;
-        max-height: 400px;
+        height: 400px;
         }
         h1 {
         max-width: 100%;
@@ -456,7 +457,6 @@ h5::before {
     }
     .interior {
         margin-bottom: 80px;
-        background-size: cover ;
         height: 304px;
     }
     h1 {
@@ -469,8 +469,9 @@ h5::before {
     .image-text{
         width: 312px;
         font-size: 16px;
-        max-width: 100%;
-        bottom: 30px;
+        
+        bottom: 15px;
+        left: 15px;
     }
 
     h2 {margin-bottom: 20px;
