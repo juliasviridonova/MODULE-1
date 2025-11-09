@@ -17,10 +17,7 @@ body {
     margin: 0 auto;
     max-width: 1400px;
     width: 100%;
-    
-    padding-left: 125px;
-    padding-right: 125px;
-    
+    min-height: 3868px;
 }
 
 .adcontainer {
@@ -28,7 +25,7 @@ body {
     padding-left: 125px;
     padding-right: 125px;
     width: 1150px;
-    
+    min-height: 3868px;
     background: #FFFFFF;
     
 }
@@ -133,7 +130,7 @@ h2 {
 p.description {
     
     margin-bottom: 30px;;
-    width: 1048px;
+    max-width: 1048px;
     font-weight: 400;
     font-size: 45px;
     line-height: 61px;
