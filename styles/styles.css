@@ -142,6 +142,7 @@ p.description {
 .a{
     
     margin-bottom: 150px;
+    margin: 0 auto;
     display: inline-block;
     padding: 20px 40px;
     font-size: 20px;
@@ -149,7 +150,7 @@ p.description {
     background-color: #AD1818;
     color: #FFFFFF;
     cursor: pointer;
-    text-align: center;
+    
     letter-spacing: -0.03em;
 }
 
