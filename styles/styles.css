@@ -140,18 +140,18 @@ p.description {
 }
 
 .a{
-    
-    margin-bottom: 150px;
-    margin: 0 auto;
     display: inline-block;
+    margin: 0 auto;
+    margin-bottom: 150px;
     padding: 20px 40px;
     font-size: 20px;
     border-radius: 5px;
     background-color: #AD1818;
     color: #FFFFFF;
     cursor: pointer;
-    
     letter-spacing: -0.03em;
+    text-align: center;
+    width: auto;
 }
 
 h3 {
@@ -434,6 +434,7 @@ h5::before {
     .a {
         margin-bottom: 120px;
         width: 255px;
+        padding: 20px 40px;
         
     }
     .GK {
