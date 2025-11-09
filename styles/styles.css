@@ -149,6 +149,7 @@ p.description {
     background-color: #AD1818;
     color: #FFFFFF;
     cursor: pointer;
+    text-align: center;
     letter-spacing: -0.03em;
 }
 
