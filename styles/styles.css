@@ -30,6 +30,7 @@ body {
 
 .adcontainer {
     margin: 0 auto;
+    
     padding-left: 125px;
     padding-right: 125px;
     min-height: 3868px;
@@ -52,7 +53,7 @@ h1, h2, h3 {
         padding-right: 15px;
 }
 
-    .interior {
+    .aboutus_interior {
         margin-bottom: 120px;
         width: 100%;
         height: 400px;
@@ -63,29 +64,29 @@ h1, h2, h3 {
         
     }
 
-    .image-text{
+    .aboutus_image-text{
         max-width: 100%;
         bottom: 30px;
 
     }
-    p.description {
+    p.aboutus_description {
         font-size: 35px;
         width: 690px;
     }
-    .a {
+    .aboutus_a {
         margin-bottom: 120px;
         width: 255px;
         padding: 20px 40px;
         
     }
-    .GK {
+    .projects_GK {
         font-size: 25px;
         margin-bottom: 10px;
     }
-    .link {
+    .projects_link {
         margin-bottom: 80px;
     }
-    .all_projects {
+    .projects_all_projects {
         margin-bottom: 103px;
     }
     
@@ -93,11 +94,12 @@ h1, h2, h3 {
 
 @media (max-width: 767px) {
     .adcontainer {
+       
         width: 100%;
         padding-left: 13px;
         padding-right: 12px;
     }
-    .interior {
+    .aboutus_interior {
         margin-bottom: 80px;
         height: 304px;
     }
@@ -108,7 +110,7 @@ h1, h2, h3 {
         line-height: 31px;
     }
 
-    .image-text{
+    .aboutus_image-text{
         width: 312px;
         font-size: 16px;
         
@@ -119,12 +121,12 @@ h1, h2, h3 {
     h2 {margin-bottom: 20px;
         font-size: 14px;
     }
-    p.description {
+    p.aboutus_description {
         max-width: 100%;
         font-size: 22px;
         line-height: 1.3;
     }
-    .a {
+    .aboutus_a {
         margin-bottom: 80px;
         width: 194px;
         height: 51px;
@@ -136,22 +138,21 @@ h1, h2, h3 {
         margin-bottom: 20px;
         font-size: 14px;
     }
-    .image-studio {
+    .projects_image-studio {
         margin-bottom: 20px;
     }
-    .GK {
+    .projects_GK {
         font-size: 18px;
         margin-bottom: 11px;
     }
-    .link {
+    .projects_link {
         margin-bottom: 49px;
         font-size: 16px;
     }
-    .all_projects {
+    .projects_all_projects {
         font-size: 22px;
         margin-bottom: 144px;
     }
-
 
 
 }
