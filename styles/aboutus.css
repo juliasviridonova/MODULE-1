@@ -1,0 +1,65 @@
+
+
+.aboutus_interior {
+position: relative;
+margin-bottom: 150px;
+height: 500px;
+background-repeat: no-repeat;
+background-image: url('../resources/interior.png');
+background-size: cover;
+background-position: 50%;
+}
+
+.aboutus_image-text {
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    width: 430px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.03em;
+}
+h1 {
+    margin-top: 70px;
+    margin-bottom: 30px;
+    font-size: 60px;
+    font-weight: 400;
+    width: 956px;
+    line-height: 60px;
+}
+
+h2 {
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+p.aboutus_description {
+    
+    margin-bottom: 30px;;
+    max-width: 1048px;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 61px;
+    letter-spacing: -0.03em;
+    text-align: left;
+
+}
+
+.aboutus_a{
+    display: inline-block;
+    margin: 0 auto;
+    margin-bottom: 150px;
+    padding: 20px 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #AD1818;
+    color: #FFFFFF;
+    cursor: pointer;
+    letter-spacing: -0.03em;
+    text-align: center;
+    width: auto;
+}

@@ -1,0 +1,50 @@
+.last-block-black {
+    margin: 0 auto;
+    width: 1400px;
+    height: 229px;
+    letter-spacing: -0.03em;
+    background-color: #121212;
+}
+   
+.list {
+    display: flex;
+    box-sizing: border-box;
+    padding-top: 60px;
+    margin: 0 auto;
+    margin-bottom: 87px;
+    width: 450px;
+    font-size: 18px;
+    line-height: 25px;
+    
+    
+}
+
+.aboutus {
+    margin-right: 53px;
+    opacity: 50%;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.projects {
+    margin-right: 56px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.services {
+    margin-right: 55px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.contacts {   
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.name {
+    font-size: 20px;
+    text-align: center;
+    opacity: 50%;
+    color: #FFFFFF;
+}
